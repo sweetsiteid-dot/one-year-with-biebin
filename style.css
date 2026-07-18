@@ -166,7 +166,7 @@ body::before{
 
 .slides{
     width:320px;
-    height:480px;
+    aspect-ratio:1/1;
     margin:auto;
     position:relative;
 }
